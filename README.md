@@ -4,21 +4,20 @@
 Below are the visual insights from the three main pages of the dashboard.
 
 ### 🖥️ Page 1: Strategic Marketing Overview
-![Overview Dashboard](SharedScreenshot1.jpg)
+![Overview Dashboard](Overview Dashboard.jpg)
 *High-level summary of total sales, customer demographics, and key metrics.*
 
 ---
 
 ### 🖥️ Page 2: Customer Behavioral Insights
-![Customer Behavior Dashboard](SharedScreenshot2.jpg)
+![Customer Behavior Dashboard](Customer Behavior Dashboard.jpg)
 *Deep dive into income correlation, age distribution, and spending patterns.*
 
 ---
 
 ### 🖥️ Page 3: Campaign Performance & Loyalty
-![Campaign Loyalty Dashboard](SharedScreenshot3.jpg)
+![Campaign Loyalty Dashboard](Campaign Loyalty Dashboard.jpg)
 *Analysis of marketing campaign conversion rates, customer complaints, and shopping preferences.*
-
 ---
 
 ## 🔍 2. Deep-Dive Insights (Analytical Findings)
