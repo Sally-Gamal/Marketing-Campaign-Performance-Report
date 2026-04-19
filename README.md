@@ -27,13 +27,13 @@ The dashboard helps in understanding:
 ## 📸 Dashboard Preview
 
 ### 🔹 Overview Dashboard
-![Overview](overview-dashboard.png)
+![Overview](overview Dashboard.png)
 
 ### 🔹 Customer Behavior Dashboard
-![Customer Behavior](customer-behavior-dashboard.png)
+![Customer Behavior](customer Behavior Dashboard.png)
 
 ### 🔹 Campaign Analysis Dashboard
-![Campaign Analysis](campaign-analysis-dashboard.png)
+![Campaign Analysis](campaign Lanalysis Dashboard.png)
 
 ---
 
