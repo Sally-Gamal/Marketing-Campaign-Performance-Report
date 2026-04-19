@@ -1,85 +1,50 @@
-# 📊 Marketing Analytics Hub
+# 📊 Customer Behavior & Campaign Loyalty Analysis
 
-![Overview](overview-dashboard.jpg)
+## 1. 🖼️ Dashboards Preview
+### A. Executive Overview
+![Overview Dashboard](Overview%20Dashboard.jpg)
 
----
+### B. Customer Behavior Analysis
+![Customer Behavior Dashboard](Customer%20Behavior%20Dashboard.jpg)
 
-## 1. 📊 Dashboard
-Customer Segmentation & Marketing Analysis Dashboard
-
----
-
-## 2. 📝 About the Dataset
-This dataset represents customer behavior and marketing campaign interactions.
-
-It includes information such as:
-- Customer demographics (age, income, education)
-- Spending across different product categories
-- Purchase behavior across channels
-- Customer responses to marketing campaigns
-
-This data helps businesses understand customer segments, improve targeting, and enhance marketing performance.
+### C. Campaign & Loyalty Performance
+![Campaign Loyalty Dashboard](Campaign%20Loyalty%20Dashboard.jpg)
 
 ---
 
-## 3. 📑 Data Description
+## 2. 📝 Project Overview
+This project provides a comprehensive 360-degree view of customer data, focusing on purchasing patterns, loyalty program effectiveness, and campaign performance.
 
-| Column | Description |
-|--------|------------|
-| Income | Customer yearly income |
-| Recency | Days since last purchase |
-| Total Spending | Total amount spent by customer |
-| NumWebPurchases | Number of online purchases |
-| NumStorePurchases | Number of store purchases |
-| Response | Customer response to campaign |
-| Kidhome / Teenhome | Number of children |
+### 📈 Key Global Metrics:
+* **Total Revenue:** $1.19M
+* **Total Customers:** 2,240
+* **Campaign Acceptance Rate:** Detailed across 5 major campaigns.
+* **Top Performing Category:** Wines (Lead revenue generator).
 
 ---
 
-## 🔍 4. Questions & Analysis
-
-### Data Cleaning:
-- Removed missing values in income
-- Ensured correct data types
-- Created calculated columns (Age, Total Spending)
-
-### Business Questions:
-- Who are the highest value customers?
-- Which customers are most likely to respond to campaigns?
-- What purchasing channels do customers prefer?
-- Which segment generates the most revenue?
+## 3. 🔍 Deep-Dive Insights
+* **Product Dominance:** Wines and Meat products are the primary revenue drivers.
+* **Channel Performance:** Store purchases are the most frequent, while Web purchases show high engagement.
+* **Demographics:** Customers with Graduation/PhD levels represent the highest spending power.
 
 ---
 
-## 💡 5. Key Insights
-
-- High-income customers generate the highest spending and are the most valuable segment.
-- Customers with high recency are less active and likely to churn.
-- Most customers prefer store purchases over online channels.
-- Campaign response rate is relatively low, indicating poor targeting.
-- Discount-driven customers are more responsive to marketing campaigns.
+## 🛠️ 4. Data Methodology
+* Created three distinct dashboards to separate high-level KPIs from deep behavioral patterns.
+* Processed customer demographics to create meaningful segments.
+* Calculated conversion rates per campaign and spending per category.
 
 ---
 
-## 🎯 6. Recommendations
-
-- Focus marketing campaigns on high-value customers to maximize ROI.
-- Re-target inactive customers with personalized offers.
-- Improve campaign targeting using segmentation.
-- Increase focus on high-performing sales channels.
-- Design promotions for price-sensitive customers.
+## 💡 5. Strategic Recommendations
+1. **Premium Targeting:** Focus high-end promotions on the PhD/Master's demographic segments.
+2. **Web Optimization:** Implement retargeting for customers with more than 5 monthly web visits.
+3. **Campaign Scaling:** Analyze the success triggers of the most recent campaign for future replication.
 
 ---
 
-## 📸 7. Dashboard Preview
-
-### Customer Behavior
-![Customer Behavior](customer-behavior-dashboard.jpg)
-
-### Campaign Analysis
-![Campaign](campaign-dashboard.jpg)
-
----
-
-## 👩‍💻 Author
-Saly Gamal
+## 📂 Project Files
+* `Overview Dashboard.jpg`
+* `Customer Behavior Dashboard.jpg`
+* `Campaign Loyalty Dashboard.jpg`
