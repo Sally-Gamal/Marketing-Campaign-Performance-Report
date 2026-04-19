@@ -1,64 +1,83 @@
 # 📊 Marketing Analytics Hub
 
-## 📌 Project Overview
-This project focuses on analyzing customer behavior and marketing campaign performance to extract actionable insights.
-
-The dashboard helps in understanding:
-- Customer segmentation
-- Spending behavior
-- Campaign effectiveness
-- Customer engagement
+![Overview](overview-dashboard.jpg)
 
 ---
 
-## 🛠 Tools Used
-- Power BI
+## 1. 📊 Dashboard
+Customer Segmentation & Marketing Analysis Dashboard
 
 ---
 
-## 📊 Key Features
-- Customer Segmentation (High / Medium / Low Value)
-- Campaign Response Analysis
-- Spending Analysis across product categories
-- Customer Behavior Insights
+## 2. 📝 About the Dataset
+This dataset represents customer behavior and marketing campaign interactions.
+
+It includes information such as:
+- Customer demographics (age, income, education)
+- Spending across different product categories
+- Purchase behavior across channels
+- Customer responses to marketing campaigns
+
+This data helps businesses understand customer segments, improve targeting, and enhance marketing performance.
 
 ---
 
-## 📸 Dashboard Preview
+## 3. 📑 Data Description
 
-### 🔹 Overview Dashboard
-![Overview](overview Dashboard.png)
-
-### 🔹 Customer Behavior Dashboard
-![Customer Behavior](customer Behavior Dashboard.png)
-
-### 🔹 Campaign Analysis Dashboard
-![Campaign Analysis](campaign Lanalysis Dashboard.png)
+| Column | Description |
+|--------|------------|
+| Income | Customer yearly income |
+| Recency | Days since last purchase |
+| Total Spending | Total amount spent by customer |
+| NumWebPurchases | Number of online purchases |
+| NumStorePurchases | Number of store purchases |
+| Response | Customer response to campaign |
+| Kidhome / Teenhome | Number of children |
 
 ---
 
-## 💡 Key Insights
+## 🔍 4. Questions & Analysis
 
-- High-income customers generate the highest spending and represent the most valuable segment.
-- Customers with high recency are less engaged and more likely to churn.
-- Campaign response rate is relatively low, indicating the need for better targeting.
+### Data Cleaning:
+- Removed missing values in income
+- Ensured correct data types
+- Created calculated columns (Age, Total Spending)
+
+### Business Questions:
+- Who are the highest value customers?
+- Which customers are most likely to respond to campaigns?
+- What purchasing channels do customers prefer?
+- Which segment generates the most revenue?
+
+---
+
+## 💡 5. Key Insights
+
+- High-income customers generate the highest spending and are the most valuable segment.
+- Customers with high recency are less active and likely to churn.
 - Most customers prefer store purchases over online channels.
-- Discount-driven customers tend to respond more to promotions.
+- Campaign response rate is relatively low, indicating poor targeting.
+- Discount-driven customers are more responsive to marketing campaigns.
 
 ---
 
-## 🎯 Recommendations
+## 🎯 6. Recommendations
 
 - Focus marketing campaigns on high-value customers to maximize ROI.
-- Re-target inactive customers with personalized offers and discounts.
-- Improve campaign targeting using customer segmentation.
-- Increase investment in high-performing channels.
-- Design special offers for price-sensitive customers.
+- Re-target inactive customers with personalized offers.
+- Improve campaign targeting using segmentation.
+- Increase focus on high-performing sales channels.
+- Design promotions for price-sensitive customers.
 
 ---
 
-## 📂 Dataset
-Customer Personality Analysis Dataset (Kaggle)
+## 📸 7. Dashboard Preview
+
+### Customer Behavior
+![Customer Behavior](customer-behavior-dashboard.jpg)
+
+### Campaign Analysis
+![Campaign](campaign-dashboard.jpg)
 
 ---
 
